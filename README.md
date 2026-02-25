@@ -1,6 +1,6 @@
 # Unblur-SLAM: Dense Neural SLAM for Blurry Inputs 
 
-<img width="1888" height="461" alt="blur_teaser_3D" src="https://github.com/user-attachments/assets/f3601d21-4ddd-4443-8be8-10f775126c96" />
+<img width="500" height="400" alt="blur_teaser_3D" src="https://github.com/user-attachments/assets/f3601d21-4ddd-4443-8be8-10f775126c96" />
 
 Welcome to the official repository for **Unblur-SLAM**, a novel RGB SLAM pipeline designed for sharp 3D reconstruction from blurred image inputs. 
 
