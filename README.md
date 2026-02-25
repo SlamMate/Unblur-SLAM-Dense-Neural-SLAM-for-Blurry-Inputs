@@ -23,7 +23,7 @@ The codebase is currently undergoing further refinement and cleanup to ensure it
 Please star or watch this repository to stay updated on our progress!
 
 ## 📝 Citation
-[cite_start]If you find our work or datasets helpful in your research, please consider citing our paper:
+If you find our work or datasets helpful in your research, please consider citing our paper:
 
 ```bibtex
 @inproceedings{unblur_slam_2026,
