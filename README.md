@@ -1,5 +1,5 @@
 # Unblur-SLAM: Dense Neural SLAM for Blurry Inputs 
-<img width="1062" height="541" alt="blur_teaser_3D" src="https://github.com/user-attachments/assets/f8d12d59-20fb-4645-a79a-f0ef62d7dd42" />
+<img width="532" height="270" alt="blur_teaser_3D" src="https://github.com/user-attachments/assets/f8d12d59-20fb-4645-a79a-f0ef62d7dd42" />
 
 
 
